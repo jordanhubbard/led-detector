@@ -1,0 +1,33 @@
+# Xcode
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+
+# CocoaPods
+Pods/
+Podfile.lock
+*.xcworkspace
+
+# Build products
+*.app
+*.dSYM
+dist/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Swift Package Manager
+.swiftpm/
+Package.resolved
+
+# Thumbnails
+._*
